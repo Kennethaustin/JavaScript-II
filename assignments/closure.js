@@ -1,6 +1,10 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
+var attacklvl = 10;
+var defenselvl = 10;
+var totalxp = 500;
 
+function maxdamage() 
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
